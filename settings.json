@@ -1,5 +1,5 @@
 ﻿{
-    "access_token": "d36d8f422344e87ed149177cad3e3c2b8482249da6f9cd8b1d94df7588914c26a6fe0240f2d5881c2611b",
+    "access_token": "",
     "appeal": "токсин, ",
     "help_text": "Все команды:-n-nБолее подробные разъяснения команд можно посмотреть здесь: https://vk.com/@ghostlybot-komandy",
     "about": "Привет! Я GhostlyBot. Можешь называть меня просто - Призрак. Я сижу на чердаке, оттуда же и пишу тебе. Я очень умная и могу поддержать разговор. А когда я тебе надоем - можешь использовать команды (\"Команды\")\n\nСейчас я работаю на Golang версии 1.14.3\n\nМой разработчик: [id388726687|Дмитрий Волков]. По любым вопросам, кроме тупых, обращаемся к нему\n\nОфициальная группа бота: https://vk.com/ghostlybot\n\nИспользованны библиотеки:\nhttps://github.com/SevereCloud/vksdk\nhttps://github.com/buger/jsonparser\nhttps://github.com/adam-lavrik/go-imath/ix\nhttps://github.com/masatana/go-textdistance\nhttps://github.com/o1egl/govatar\n\nПриятного времяпровождения!",
