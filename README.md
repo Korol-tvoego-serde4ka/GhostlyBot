@@ -60,4 +60,4 @@
 * и сам исполняемый файл
 
 ## Сбор статистики
-https://github.com/WheatleyHDD/GhostlyBotStat
+https://github.com/Korol-tvoego-serde4ka/GhostlyBotStat
