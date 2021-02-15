@@ -26,7 +26,7 @@
 Какой твой любимый мем?|Этот|photo574715826_457239130
 ```
 
-[Python-скрипт для конвертации базы с FP iHA Bot на базу GhostlyBot](https://github.com/WheatleyHDD/GhostBDGen)
+[Python-скрипт для конвертации базы с FP iHA Bot на базу GhostlyBot](https://github.com/Korol-tvoego-serde4ka/GhostBDGen)
 
 ### settings.json
 Костяк всего и вся. Самое важное поле: "access_token"
