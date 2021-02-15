@@ -1,8 +1,8 @@
 ﻿{
     "access_token": "",
     "appeal": "Токсин, ",
-    "help_text": "Все команды:-n-nБолее подробные разъяснения команд можно посмотреть здесь: https://vk.com/@neurotoxinbot-neurotoxinbot-komandy",
-    "about": "Привет! Я Neuro Toxin. Можешь называть меня просто - Токсин. Я сижу на чердаке, оттуда же и пишу тебе. Я очень умная и могу поддержать разговор. А когда я тебе надоем - можешь использовать команды (\"Команды\")\n\nСейчас я работаю на Golang версии 1.14.3\n\nМой разработчик: [id44603014|Сергей Мусин]. По любым вопросам, кроме тупых, обращаемся к нему\n\nОфициальная группа бота: https://vk.com/neurotoxinbot\n\nИспользованны библиотеки:\nhttps://github.com/SevereCloud/vksdk\nhttps://github.com/buger/jsonparser\nhttps://github.com/adam-lavrik/go-imath/ix\nhttps://github.com/masatana/go-textdistance\nhttps://github.com/o1egl/govatar\n\nПриятного времяпровождения!",
+    "help_text": "Все команды: * тут когда-то что-то будет * -n-nБолее подробные разъяснения команд можно посмотреть здесь: https://vk.com/@neurotoxinbot-neurotoxinbot-komandy",
+    "about": "Привет! Я Neuro Toxin. Можешь называть меня просто - Токсин. Я тень моего человека, запихавшего меня в твой экран. Я очень умная и могу поддержать разговор. А когда я тебе надоем - можешь использовать команды (\"Команды\")\n\nСейчас я работаю на Golang версии 1.14.3\n\nМой разработчик: [id44603014|Сергей Мусин]. По любым вопросам, кроме тупых, обращаемся к нему\n\nОфициальная группа бота: https://vk.com/neurotoxinbot\n\nИспользованны библиотеки:\nhttps://github.com/SevereCloud/vksdk\nhttps://github.com/buger/jsonparser\nhttps://github.com/adam-lavrik/go-imath/ix\nhttps://github.com/masatana/go-textdistance\nhttps://github.com/o1egl/govatar\n\nПриятного времяпровождения!",
     "walls": [
          574647979, 
         -124044204,
