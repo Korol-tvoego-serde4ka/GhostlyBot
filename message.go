@@ -164,7 +164,7 @@ func getOtvet(a string, userID int, vk *api.VK, isChat bool, ChatID, BotID int, 
 			answer = GetRegularData(answer, userID, vk)
 			return answer, "", 0
 		}
-	case "Ген", "gen":
+	case "ген", "gen":
 		if onWall {
 			answer, _ := jsonparser.GetString(config, "commandOnWallDontWorks")
 			answer = GetRegularData(answer, userID, vk)
