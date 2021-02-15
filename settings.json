@@ -10,7 +10,7 @@
     ],
     "onAttemptToBlock": "Маму свою заблокируй! Слышал, ты, пузырик пакостный?!",
     "commandOnWallDontWorks": "Эта команда на стенах не работает",
-    "statistic": true,
+    "statistic": false,
     "message_list": {
       "find": {
         "TypeUndefined": "Я не поняла того, что ты хочешь искать",
