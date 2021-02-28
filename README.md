@@ -10,7 +10,7 @@
 
 ## Сборка
 1. Необходимо установить Golang 1.14
-2. `git clone https://github.com/WheatleyHDD/GhostlyBot`
+2. `git clone https://github.com/Korol-tvoego-serde4ka/GhostlyBot`
 3. `cd GhostlyBot`
 4. `go build`
 
